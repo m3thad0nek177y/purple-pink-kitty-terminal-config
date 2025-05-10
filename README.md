@@ -1,4 +1,4 @@
-# purple-pink-kitty-terminal-config
+# pink kitty terminal config
 
 pretty cute colors for a purple/pink pastel theme :3
 
